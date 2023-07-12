@@ -1,0 +1,50 @@
+
+
+
+/*Resume CSS ID*/
+
+#myname {text-align: left;
+    font-size: 100px;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    float: center;
+    font-family: 'Lobster', cursive;
+    color:#F0A171;}
+
+#contact {  margin-top: 50px;
+}
+
+ #contact, #skills, #education, #experience {background-color:#17041E;
+    color:#F0A171;
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 20px;
+    } 
+    
+#header {font-family: 'Lobster', cursive;
+    color:#F0A171;  
+    font-size: 50px;
+   }
+
+#Experience {
+    text-align: left; 
+    float: right;
+    justify-content: right;
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    color: #17041E;
+    margin-top: 200px;
+    right: 100px;
+    top: -200px;
+    word-wrap: break-word;
+    width: 600px;
+    }
+
+#label {font-family: 'Lobster', cursive;
+    color:#17041E; 
+    font-size: 25px;}
+
+#absolute {position: absolute;}
